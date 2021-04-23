@@ -8,9 +8,9 @@ nav:
 
 ### Ant Design Charts
 
-[Ant Design Charts](https://github.com/ant-design/ant-design-charts) is the React version of [G2Plot](https://antv-g2plot.gitee.io/zh/examples/gallery), based on React, TypeScript encapsulates all G2Plot graphs, inherits all configuration of G2Plot, and is more friendly to students of the React technology stack<b>Same team development</b>.
+[Ant Design Charts](https://github.com/ant-design/ant-design-charts) is the React version of [G2Plot](https://antv-g2plot.gitee.io/zh/examples/gallery). It is written in Typescript and supports all G2Plot graphs and configuration options. Plus, it's more beginner friendly.
 
-- Out of the box: Presents high quality charts by default, and precipitates research into the development experience and user experience into the default configuration of the charts
+- Out of the box: Presents high quality charts by default, and the default configuration presents a well thought about user and developer experience
 
 - Easy configuration: users can easily adjust chart details according to specific business needs
 
